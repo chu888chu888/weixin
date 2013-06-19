@@ -12,7 +12,7 @@
 *
 *
 */
-define("TOKEN", "你的token");
+define("TOKEN", "token");
 $wjfzObj = new wechatCallbackapi();
 
 //下面是识别验证or消息回复
